@@ -1,8 +1,10 @@
-
-
 \# Oncology Management Reporting Dashboard
 
+\## Technical Report
 
+
+
+\[Read the full technical report (PDF)](report/Oncology\_Technical\_Report.pdf)
 
 \## Project Overview
 
@@ -293,6 +295,4 @@ Chandrae Roy
 M.Sc. Data Science
 
 TU Dortmund University, Germany
-
-
 
